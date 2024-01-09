@@ -20,7 +20,7 @@ get the big ax and kill the monster to win!**
 | ------------- |:-------------:|
 | Arrow Keys     | Move/Select Level|
 | Space Bar      | Jump |
-| Z      | Use Spell/Select Level|
+| Z      | Use Spell/Select Level/Buy Items|
 | X      | Use Knife/Ax     |
 | C      | Switch Spell     |
 | Escape | Exit Game    |
